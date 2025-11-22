@@ -32,6 +32,9 @@ Framework is designed as per the Page Object Model.
 10. 2 Test cases will be passed and 2 will be failed.
 
 
+In case of issue please reach out to me.
+
+
 
 
 
